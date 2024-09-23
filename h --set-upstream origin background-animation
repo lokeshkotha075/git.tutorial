@@ -1,0 +1,56 @@
+[33mcommit 4bdde310513001f6198154baf411ba380892a398[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 543bcd3 ac3f955
+Author: lokeshkotha075 <145829162+lokeshkotha075@users.noreply.github.com>
+Date:   Mon Sep 23 22:38:28 2024 +0530
+
+    Merge pull request #1 from lokeshkotha075/background-animation
+    
+    background-animation-added
+
+[33mcommit ac3f955a438b0e5c56d1d6aa10e23e681d820462[m[33m ([m[1;31morigin/background-animation[m[33m, [m[1;32mbackground-animation[m[33m)[m
+Author: lokeshkotha075 <lokeshkotha075@gmail.com>
+Date:   Mon Sep 23 20:00:42 2024 +0530
+
+    background-animation-added
+
+[33mcommit 543bcd3c12103024d0d7bb19572954af72fb2077[m
+Author: lokeshkotha075 <lokeshkotha075@gmail.com>
+Date:   Thu Sep 19 07:26:52 2024 +0530
+
+    background color changes reverted from blue to powder blue
+
+[33mcommit 24c7f5318775c0b611a0f6853f406a7cedf59376[m
+Author: lokeshkotha075 <lokeshkotha075@gmail.com>
+Date:   Wed Sep 18 20:05:09 2024 +0530
+
+    background color changed to white
+
+[33mcommit 95015cc9646ae57cf65a7dc88e09923486510329[m
+Author: lokeshkotha075 <lokeshkotha075@gmail.com>
+Date:   Wed Sep 18 20:00:28 2024 +0530
+
+    styles added to github demo html
+
+[33mcommit 9b836f435931a8c116e5dfea03f1645656770da5[m
+Author: lokeshkotha075 <lokeshkotha075@gmail.com>
+Date:   Wed Sep 18 19:52:26 2024 +0530
+
+    github demo html file added
+
+[33mcommit 24aa1e99dbe534c0dc10e61b8b820d453bb4338b[m
+Author: lokeshkotha075 <lokeshkotha075@gmail.com>
+Date:   Wed Sep 18 12:22:05 2024 +0530
+
+    youtube placeholeder added
+
+[33mcommit ed7a1a9671848736f33e737d0e71277c83515042[m
+Author: lokeshkotha075 <145829162+lokeshkotha075@users.noreply.github.com>
+Date:   Wed Sep 18 10:21:43 2024 +0530
+
+    Update README.md
+
+[33mcommit 0edc6097d7d6648067dd38dd279fcb560d8ec723[m
+Author: lokeshkotha075 <145829162+lokeshkotha075@users.noreply.github.com>
+Date:   Wed Sep 18 10:18:37 2024 +0530
+
+    Create README.md
